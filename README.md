@@ -3,4 +3,4 @@ Microsoft Rewards Auto Searcher (MRAS) is a simple open source VBScript that aut
 # What should I be aware of?
 MRAS will only search using your Windows 7/Windows 11 default browser, it is required to have Microsoft Edge as your default browser for this script to function correctly, if the script opens another browser that's not Microsoft Edge then you will not be credited the level 2 150 Microsoft Rewards points. Also using an automatic software/scripts or other automatic ways to gain points on Microsoft Rewards is against their Terms Of Service, I am not responsible on how you use this script or on how you modify it.
 # How do I install/run?
-Simple download MRAS.vbs and open the file, the whole process after that is automatic and only takes around 3 minutes to complete.
+Simple download MRAS.vbs and open the file, the whole process after running MRAS.vbs is automatic and only takes around 3 minutes to complete.
