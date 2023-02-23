@@ -6,14 +6,12 @@ Function GenerateRandomQuery()
     Next
     GenerateRandomQuery = query
 End Function
-
 Function GenerateRandomURL()
     Dim url, query
     query = GenerateRandomQuery()
     url = "https://www.bing.com/search?q=" & query
     GenerateRandomURL = url
 End Function
-
 Dim urls(29), i, url
 Randomize
 For i = 0 To 29
